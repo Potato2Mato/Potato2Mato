@@ -1,5 +1,16 @@
-# 💫 About Me:
-🔭 I’m currently working on CODING<br>👯 I’m looking to collaborate on CODING<br>🤝 I’m looking for help with CODING<br>🌱 I’m currently learning CODING<br>💬 Ask me about CODING ONLY<br>⚡ Fun fact<br>there is no fun fact at all...
+# Hi, I'm [Omar Ehab] 👋
+
+I'm a Computer Science student who enjoys building web applications with PHP and Laravel.
+
+## 🛠️ What I've learned
+- **Backend:** PHP, Laravel, Java
+- **Frontend:** HTML, CSS, JavaScript, Tailwind CSS
+- **Tools:** Git, GitHub
+
+## 🚀 What I'm doing
+- Building full-stack projects with Laravel
+- Improving my problem-solving and clean-code skills
+- Looking for internship and junior developer opportunities
 
 
 # 💻 Tech Stack:
