@@ -1,4 +1,4 @@
-# Hi, I'm [Omar Ehab] 👋
+# Hi, I'm Omar Ehab 👋
 
 I'm a Computer Science student who enjoys building web applications with PHP and Laravel.
 
